@@ -1,6 +1,6 @@
 # MK8D-Save-Tool
 
-A simple web-based tool that allows you to modify Mario Kart 8 Deluxe save tools. Currently still in development.
+A simple web-based tool that allows you to modify Mario Kart 8 Deluxe saves. Currently still in development.
 
 # Planned Features
 
